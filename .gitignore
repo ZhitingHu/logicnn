@@ -1,5 +1,11 @@
+# data
+data/*.p
+
 # vi
 tags
 *.tags
 *.swp
 *.swo
+
+# backup
+*_bak
