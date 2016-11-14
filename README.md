@@ -1,4 +1,4 @@
-This is an implementation of sentiment classification of the paper
+An implementation of the following paper in application of sentiment classification
 
 [Harnessing Deep Neural Networks with Logic Rules](https://arxiv.org/abs/1603.06318)  
 Zhiting Hu, Xuezhe Ma, Zhengzhong Liu, Eduard Hovy, Eric P. Xing ACL 2016  
