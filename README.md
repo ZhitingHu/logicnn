@@ -1,7 +1,7 @@
 An implementation of the following paper in application of sentiment classification
 
 [Harnessing Deep Neural Networks with Logic Rules](https://arxiv.org/abs/1603.06318)  
-Zhiting Hu, Xuezhe Ma, Zhengzhong Liu, Eduard Hovy, Eric P. Xing ACL 2016  
+Zhiting Hu, Xuezhe Ma, Zhengzhong Liu, Eduard Hovy, Eric P. Xing, ACL 2016  
 
   * The code is adapted from [previous work](https://github.com/yoonkim/CNN_sentence), written in Python (2.7) and Theano (0.9)
 
@@ -17,4 +17,4 @@ Zhiting Hu, Xuezhe Ma, Zhengzhong Liu, Eduard Hovy, Eric P. Xing ACL 2016
 
   * run `run.sh`
 
-  * The results would show some randomness because of GPU parallelization. Average is around: q:0.893, p:0.887
+  * Average performance (accuracy) is around `q:0.893, p:0.887`
