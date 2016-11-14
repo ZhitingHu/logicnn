@@ -7,6 +7,8 @@ Zhiting Hu, Xuezhe Ma, Zhengzhong Liu, Eduard Hovy, Eric P. Xing, ACL 2016
 
   * The [SST2](http://nlp.stanford.edu/sentiment/treebank.html) dataset is used
 
+  * contact: zhitinghu@gmail.com
+
 ## Data Preparation ##
 
   * Download and uncompress the pre-trained [word2vec](https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit) to `data/w2v/`
