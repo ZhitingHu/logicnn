@@ -19,4 +19,4 @@ Zhiting Hu, Xuezhe Ma, Zhengzhong Liu, Eduard Hovy, Eric P. Xing, ACL 2016
 
   * run `run.sh`
 
-  * Average performance (accuracy) is around `q:0.893, p:0.887`
+  * Average performance (accuracy) is around `q:0.893, p:0.887` (randomness comes from GPU parallelization)
